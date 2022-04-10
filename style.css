@@ -1,0 +1,159 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.all{
+    background: #EAF6F6;
+}
+.img1{
+    margin-top: 30px;
+    position: relative;
+    left: 70%;
+    margin-bottom: 60px;
+}
+span{
+    text-decoration: underline;
+}
+
+h1,h2{
+    text-align: center;
+    color: #66BFBF;
+    margin: 30px;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    color: #66BFBF;
+    margin: 30px;
+    font-size: 40px;
+}
+
+.img2{
+    position: relative;
+    left: 20%;
+}
+
+.img3{
+    position: relative;
+    left: 30%;
+}
+
+.img4{
+    margin-top: 90px;
+    position: relative;
+    left: 43%;
+}
+
+p{
+    text-align: center;
+    
+}
+
+.p2{
+    font-size: 40px;
+    color: #879b9b;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.my{
+    margin-bottom: 100px;
+}
+
+.img5{
+    border-radius: 50%;
+    width: 200px;
+    position: relative;
+    left: 30%;
+}
+
+.bli{
+    position: absolute;
+    left: 44pc;
+    color: #66BFBF;
+}
+
+.red{
+    position: absolute;
+    right: 15%;
+    bottom: -130%;
+    margin: 30px;
+}
+
+.h34{
+    position: absolute;
+    right: 58%;
+    bottom: -155%;
+    margin-bottom: 20px;
+    color: #66BFBF;
+}
+
+.dad{
+
+    position: absolute;
+    right: 40%;  
+    bottom: -165%;
+}
+.aha{
+    margin-top: 200px;
+}
+
+.img6{
+    width: 200px;
+    position: absolute;
+    right: 25%;
+    bottom: -170%;
+}
+
+.jsj{
+    text-align: center;
+    color: #66BFBF;
+}
+
+.asd{
+    margin-top: 40px;
+    text-align: center;
+}
+
+button{
+    margin-top: 60px;
+    position: relative;
+    color: #fff;
+    left: 44%;
+    background-color:#66BFBF;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    border-color: #66BFBF;
+    margin-bottom: 200px;
+}
+
+.container2{
+    color: #66BFBF;
+    display: inline;
+    background: #66BFBF;
+}
+
+ ul{
+    background: #66BFBF;
+    padding: 70px;
+} 
+
+li{
+    display: inline;
+    position: relative;
+    left: 39%;
+    margin: 20px;
+    bottom: 40px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+
+.clas{
+    background: #66BFBF;
+    color: #fff;  
+}
